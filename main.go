@@ -93,6 +93,14 @@ func main() {
 		fmt.Fprintf(f, "%s\n", r.Team.Name)
 		fmt.Fprintf(f, "\t%-25s%-4s%s\n", "Name", "Pos", "College")
 		for _, p := range r.Players {
+			if p.School == "" ||
+				p.School == "-" ||
+				p.School == "--" ||
+				p.School == "—" ||
+				p.School == "No College" ||
+				p.School == " nbsp;" {
+				p.School = " "
+			}
 			fmt.Fprintf(f, "\t%-25s%-4s%s\n", p.Name, p.Position, p.School)
 		}
 		fmt.Fprintf(f, "\n\n")

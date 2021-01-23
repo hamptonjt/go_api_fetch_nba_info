@@ -11,10 +11,10 @@ Boston Celtics
 	Jabari Bird              SG  California
 	Shane Larkin             PG  Miami (Fla.)
 	Semi Ojeleye             PF  Duke; Southern Methodist
-	L.J. Peak                SG  
+	L.J. Peak                SG   
 	Jayson Tatum             PF  Duke
-	Daniel Theis             PF  —
-	Guerschon Yabusele       PF  No College
+	Daniel Theis             PF   
+	Guerschon Yabusele       PF   
 	Amile Jefferson          PF  Duke
 	Robert Williams          C   Texas A amp;M
 	Carsen Edwards           PG  Purdue
@@ -23,9 +23,9 @@ Boston Celtics
 	Romeo Langford           SG  Indiana
 	Tremont Waters           PG  Louisiana State
 	Grant Williams           PF  Tennessee
-	Yam Madar                PG  —
-	Aaron Nesmith            SF  —
-	Payton Pritchard         PG  —
+	Yam Madar                PG   
+	Aaron Nesmith            SF   
+	Payton Pritchard         PG   
 
 
 Brooklyn Nets
@@ -33,7 +33,7 @@ Brooklyn Nets
 	Randy Foye               SG  Villanova
 	Joe Harris               SF  Virginia
 	Lance Thomas             F   Duke
-	Timothe Luwawu-Cabarrot  SG  —
+	Timothe Luwawu-Cabarrot  SG   
 	James Webb III           SF  Boise State
 	Spencer Dinwiddie        PG  Colorado
 	Kyrie Irving             PG  Duke
@@ -48,32 +48,32 @@ Brooklyn Nets
 	Alan Williams            PF  California-Santa Barbara
 	Quincy Acy               SF  Baylor
 	James Harden             SG  Arizona State
-	Yakuba Ouattara          SG  No College
+	Yakuba Ouattara          SG   
 	Jacob Wiley              SF  Montana; Lewis   Clark; Easter
 	Milton Doyle             SG  Loyola (IL)
 	Akil Mitchell            SG  Virginia
-	Jeremy Senglin           G   
+	Jeremy Senglin           G    
 	Landry Shamet            SG  Wichita State
 	Bruce Brown              SG  Miami (Fla.)
 	Nicolas Claxton          PF  Georgia
 	Jaylen Hands             PG  UCLA
 	Jeremiah Martin          PG  Memphis
 	Chris Chiozza            PG  Florida
-	Donta Hall               PF  —
-	Reggie Perry             PF  —
-	Jordan Bowden            G   —
-	Nate Sestina             F   —
+	Donta Hall               PF   
+	Reggie Perry             PF   
+	Jordan Bowden            G    
+	Nate Sestina             F    
 	Kaiser Gates             F   Xavier
-	Jarrett Allen            F   --
-	Rodions Kurucs           F   --
-	Caris Levert             F   --
-	Taurean Prince           F   --
+	Jarrett Allen            F    
+	Rodions Kurucs           F    
+	Caris Levert             F    
+	Taurean Prince           F    
 
 
 New York Knicks
 	Name                     Pos College
 	Ron Baker                SG  Wichita State
-	Mindaugas Kuzminskas     SF  No College
+	Mindaugas Kuzminskas     SF   
 	Nerlens Noel             C   Kentucky
 	Taj Gibson               C   USC
 	Reggie Bullock           SG  North Carolina
@@ -85,8 +85,8 @@ New York Knicks
 	Julius Randle            PF  Kentucky
 	John Jenkins             SG  Vanderbilt
 	Kadeem Allen             PG  Hutchinson CC KS; Arizona
-	Ognjen Jaramaz           PG  
-	Frank Ntilikina          PG  —
+	Ognjen Jaramaz           PG   
+	Frank Ntilikina          PG   
 	Isaiah Hicks             PF  North Carolina
 	Dennis Smith Jr.         PG  North Carolina State
 	Ivan Rabb                C   California
@@ -99,24 +99,24 @@ New York Knicks
 	RJ Barrett               SF  Duke
 	Ignas Brazdeikis         SF  Michigan
 	Jared Harper             PG  Auburn
-	Immanuel Quickley        SG  —
-	Obi Toppin               PF  —
-	Myles Powell             SG  —
+	Immanuel Quickley        SG   
+	Obi Toppin               PF   
+	Myles Powell             SG   
 
 
 Philadelphia Sixers
 	Name                     Pos College
-	Amir Johnson             C   No College
+	Amir Johnson             C    
 	James Young              SG  Kentucky
 	Kyle O'Quinn             C   Norfolk State
 	Joel Embiid              C   Kansas
 	Ben Simmons              PG  Louisiana State
 	Tobias Harris            PF  Tennessee
 	Greg Monroe              C   Georgetown
-	Dwight Howard            C   —
+	Dwight Howard            C    
 	Kris Humphries           PF  Minnesota
 	Mike Scott               PF  Virginia
-	Tiago Splitter           C   No College
+	Tiago Splitter           C    
 	James Michael McAdoo     SF  North Carolina
 	Anthony Brown            SF  Stanford
 	Justin Anderson          SG  Virginia
@@ -124,23 +124,23 @@ Philadelphia Sixers
 	Danny Green              SF  North Carolina
 	Jonathon Simmons         SF  Paris JC TX; Midland Coll. TX
 	James Blackmon Jr.       SG  Indiana
-	Furkan Korkmaz           SG  —
+	Furkan Korkmaz           SG   
 	Jacob Pullen             PG  Kansas State
 	Derrick Walton Jr.       PG  Michigan
-	Terrance Ferguson        SF  —
+	Terrance Ferguson        SF   
 	Tony Bradley             C   North Carolina
 	Shake Milton             SG  Southern Methodist
-	Norvel Pelle             C   —
+	Norvel Pelle             C    
 	Zhaire Smith             G   Texas Tech
 	Ryan Broekhoff           G   Valparaiso
 	Haywood Highsmith        F   WheelingJesuit
-	Vincent Poirier          C   —
+	Vincent Poirier          C    
 	Isaiah Miles             F   St. Joseph's (PA)
 	Marial Shayok            SG  Virginia; Iowa State
 	Matisse Thybulle         SG  Washington
-	Isaiah Joe               SG  —
-	Tyrese Maxey             PG  —
-	Paul Reed                SF  —
+	Isaiah Joe               SG   
+	Tyrese Maxey             PG   
+	Paul Reed                SF   
 	Lamine Diane             F   CalStateNorthridge
 	Dakota Mathias           SG  Purdue
 
@@ -149,7 +149,7 @@ Toronto Raptors
 	Name                     Pos College
 	Jeremy Lin               PG  Harvard
 	Kyle Lowry               PG  Villanova
-	Lucas Nogueira           C   No College
+	Lucas Nogueira           C    
 	Norman Powell            SG  UCLA
 	Pascal Siakam            PF  New Mexico State
 	Kay Felder               PG  Oakland University (MI)
@@ -179,20 +179,20 @@ Toronto Raptors
 	Shamorie Ponds           PG  St. John's (N.Y.)
 	Oshae Brissett           SF  Syracuse
 	Paul Watson              SG  Fresno State
-	Malachi Flynn            PG  —
-	Jalen Harris             SG  —
+	Malachi Flynn            PG   
+	Jalen Harris             SG   
 
 
 Chicago Bulls
 	Name                     Pos College
 	Sean Kilpatrick          SG  Cincinnati
-	Cristiano Felicio        PF  —
+	Cristiano Felicio        PF   
 	Denzel Valentine         SG  Michigan State
-	Paul Zipser              SF  No College
+	Paul Zipser              SF   
 	Thaddeus Young           PF  Georgia Tech
 	Jarell Eddie             SG  Virginia Tech
 	Otto Porter Jr.          SF  Georgetown
-	Tomas Satoransky         SG  —
+	Tomas Satoransky         SG   
 	Zach LaVine              SG  UCLA
 	Noah Vonleh              PF  Indiana
 	Diamond Stone            C   Maryland
@@ -200,11 +200,11 @@ Chicago Bulls
 	Garrett Temple           SG  Louisiana State
 	Tony Allen               SG  Butler County CC KS; Wabash Va
 	Wayne Selden             SG  Kansas
-	Omer Asik                C   No College
+	Omer Asik                C    
 	Ryan Arcidiacono         PG  Villanova
 	Luke Kornet              C   Vanderbilt
 	Antonio Blakeney         SG  Louisiana State
-	Jaylen Johnson           SG  
+	Jaylen Johnson           SG   
 	Lauri Markkanen          PF  Arizona
 	Bronson Koenig           PG  Wisconsin
 	Walt Lemon Jr.           PG  Bradley
@@ -212,12 +212,12 @@ Chicago Bulls
 	Chandler Hutchison       SF  Boise State
 	Brandon Sampson          SG  Louisiana State
 	Daniel Gafford           C   Arkansas
-	Adam Mokoka              SG  —
-	Justin Simon             G   -
+	Adam Mokoka              SG   
+	Justin Simon             G    
 	Coby White               PG  North Carolina
 	Zach Norvell Jr.         SG  Gonzaga
-	Patrick Williams         SF  —
-	Devon Dotson             PG  —
+	Patrick Williams         SF   
+	Devon Dotson             PG   
 	Simi Shittu              C   Vanderbilt
 
 
@@ -229,9 +229,9 @@ Cleveland Cavaliers
 	Kevin Love               PF  UCLA
 	Andre Drummond           C   Connecticut
 	Matthew Dellavedova      PG  St. Mary's (CA)
-	Thon Maker               C   —
+	Thon Maker               C    
 	Taurean Prince           F   Baylor
-	Walter Tavares           C   No College
+	Walter Tavares           C    
 	Daniel Hamilton          SF  Connecticut
 	JaVale McGee             C   Nevada
 	Larry Nance Jr.          PF  Wyoming
@@ -241,24 +241,24 @@ Cleveland Cavaliers
 	Sheldon McClellan        SF  Texas; Miami (Fla.)
 	Jarrett Allen            C   Texas
 	Damyean Dotson           SG  Oregon; Houston
-	Cedi Osman               SF  —
-	Ante Zizic               F   —
-	Kendrick Perkins         C   
+	Cedi Osman               SF   
+	Ante Zizic               F    
+	Kendrick Perkins         C    
 	Collin Sexton            SG  Alabama
-	JaCorey Williams         F    nbsp;
+	JaCorey Williams         F    
 	J.P. Macura              SG  Xavier (Ohio)
 	Malik Newman             PG  Mississippi State; Kansas
 	Billy Preston            SF  Kansas
 	Deng Adel                SF  Louisville
-	Marques Bolden           C   —
+	Marques Bolden           C    
 	Darius Garland           PG  Vanderbilt
 	Kevin Porter Jr.         SG  USC
 	Dean Wade                PF  Kansas State
 	Dylan Windler            SG  Belmont University
 	Matt Mooney              SG  Air Force; South Dakota; Texas
-	Isaac Okoro              SF  —
-	Charles Matthews         G   —
-	Lamar Stevens            PF  —
+	Isaac Okoro              SF   
+	Charles Matthews         G    
+	Lamar Stevens            PF   
 	Levi Randolph            SG  Alabama
 
 
@@ -274,37 +274,37 @@ Detroit Pistons
 	Wayne Ellington          SG  North Carolina
 	Rodney McGruder          SG  Kansas State
 	Willie Reed              C   St. Louis
-	Beno Udrih               PG  No College
+	Beno Udrih               PG   
 	Jameer Nelson            PG  St. Joseph's (PA)
 	Luis Montero             SG  Westchester CC NY
 	Mason Plumlee            C   Duke
 	Joe Johnson              SF  Arkansas
-	Zaza Pachulia            C   No College
+	Zaza Pachulia            C    
 	Blake Griffin            PF  Oklahoma
-	Jose Calderon            PG  No College
+	Jose Calderon            PG   
 	Brandon Knight           G   Kentucky
 	Dwight Buycks            PG  Indian Hills CC IA; Marquette
 	Larry Drew II            PG  UCLA
 	Kalin Lucas              PG  Michigan State
 	Josh Jackson             SG  Kansas
 	Frank Jackson            PG  Duke
-	Landry Nnoko             C   
-	Derek Willis             F   
+	Landry Nnoko             C    
+	Derek Willis             F    
 	Reggie Hearn             SG  Northwestern
-	Dzanan Musa              SG  —
-	Keenan Evans             PG   nbsp;
-	Zach Lofton              G    nbsp;
+	Dzanan Musa              SG   
+	Keenan Evans             PG   
+	Zach Lofton              G    
 	Khyri Thomas             G   Creighton
 	Sviatoslav Mykhailiuk    SG  Kansas
-	Sekou Doumbouya          SF  —
-	Deividas Sirvydis        SG  —
-	Louis King               F   —
-	Saddiq Bey               SF  —
-	Killian Hayes            PG  —
-	Isaiah Stewart           C   —
-	Saben Lee                PG  —
-	LiAngelo Ball            G   —
-	Anthony Lamb             F   —
+	Sekou Doumbouya          SF   
+	Deividas Sirvydis        SG   
+	Louis King               F    
+	Saddiq Bey               SF   
+	Killian Hayes            PG   
+	Isaiah Stewart           C    
+	Saben Lee                PG   
+	LiAngelo Ball            G    
+	Anthony Lamb             F    
 
 
 Indiana Pacers
@@ -315,8 +315,8 @@ Indiana Pacers
 	T.J. McConnell           PG  Duquesne; Arizona
 	Doug McDermott           SF  Creighton
 	Lavoy Allen              PF  Temple
-	Monta Ellis              SG  No College
-	Al Jefferson             C   No College
+	Monta Ellis              SG   
+	Al Jefferson             C    
 	Myles Turner             C   Texas
 	Joe Young                PG  Houston; Oregon
 	Malcolm Brogdon          PG  Virginia
@@ -331,39 +331,39 @@ Indiana Pacers
 	DeQuan Jones             SF  Miami (Fla.)
 	Edmond Sumner            SG  Xavier (Ohio)
 	Damien Wilkins           SG  North Carolina State; Georgia
-	Nazareth Mitrou-Long     SG  
+	Nazareth Mitrou-Long     SG   
 	Trey McKinney-Jones      SG  Miami (FL)
 	Amida Brimah             C   Connecticut
 	Aaron Holiday            PG  UCLA
 	Stephan Hicks            G   CalStateNorthridge
-	Goga Bitadze             C   —
-	Brian Bowen II           SG  -
+	Goga Bitadze             C    
+	Brian Bowen II           SG   
 	JaKeenan Gant            PF  Louisiana-Lafayette
-	Jalen Lecque             PG  —
+	Jalen Lecque             PG   
 	Kelan Martin             SG  Butler
-	Cassius Stanley          SG  —
-	Rayshaun Hammonds        SF  —
+	Cassius Stanley          SG   
+	Rayshaun Hammonds        SF   
 
 
 Milwaukee Bucks
 	Name                     Pos College
 	Brook Lopez              C   Stanford
-	Brandon Jennings         PG  No College
+	Brandon Jennings         PG   
 	Marshall Plumlee         C   Duke
 	Nik Stauskas             SG  Michigan
-	Nikola Mirotic           PF  No College
+	Nikola Mirotic           PF   
 	Bobby Portis             C   Arkansas
 	Jon Leuer                PF  Wisconsin
-	Giannis Antetokounmpo    PF  —
+	Giannis Antetokounmpo    PF   
 	Khris Middleton          SF  Texas A amp;M
-	Mirza Teletovic          PF  No College
+	Mirza Teletovic          PF   
 	Jason Terry              SG  Arizona
 	Kyle Korver              SG  Creighton
 	Treveon Graham           SF  Virginia Commonwealth
 	Marvin Williams          PF  North Carolina
 	D.J. Augustin            PG  Texas
 	Shabazz Muhammad         SG  UCLA
-	Ersan Ilyasova           PF  —
+	Ersan Ilyasova           PF   
 	Pat Connaughton          SG  Notre Dame
 	Joel Bolomboy            PF  Weber State
 	Xavier Munford           PG  Rhode Island
@@ -375,17 +375,17 @@ Milwaukee Bucks
 	Torrey Craig             SF  South Carolina Upstate
 	Justin Patton            C   Creighton
 	Frank Mason              PG  Kansas
-	Jordan Barnett           F    nbsp;
+	Jordan Barnett           F    
 	Donte DiVincenzo         SG  Villanova
-	Brandon McCoy            C    nbsp;
-	Jaylen Morris            SG   nbsp;
+	Brandon McCoy            C    
+	Jaylen Morris            SG   
 	Jaylen Adams             PG  St. Bonaventure
 	Bonzie Colson            PF  NotreDame
-	Thanasis Antetokounmpo   SF  —
-	Jordan Nwora             SF  —
-	Sam Merrill              SG  —
-	Mamadi Diakite           PF  —
-	EJ Montgomery            PF  —
+	Thanasis Antetokounmpo   SF   
+	Jordan Nwora             SF   
+	Sam Merrill              SG   
+	Mamadi Diakite           PF   
+	EJ Montgomery            PF   
 
 
 Atlanta Hawks
@@ -395,22 +395,22 @@ Atlanta Hawks
 	Jeremy Evans             SF  Western Kentucky
 	Alex Poythress           PF  Kentucky
 	Malcolm Delaney          PG  Virginia Tech
-	Danilo Gallinari         PF  —
+	Danilo Gallinari         PF   
 	Cole Aldrich             C   Kansas
 	Kris Dunn                PG  Providence
 	Tyrone Wallace           PG  California
 	Thomas Robinson          PF  Kansas
 	Skal Labissiere          F   Kentucky
-	Nicolas Brussino         SF  No College
-	Clint Capela             C   —
+	Nicolas Brussino         SF   
+	Clint Capela             C    
 	Vince Carter             G   North Carolina
 	Chandler Parsons         PF  Florida
 	Solomon Hill             SF  Arizona
 	Dewayne Dedmon           C   Antelope Valley Coll. CA (J.C.
-	Andrew White III         SF  
+	Andrew White III         SF   
 	John Collins             PF  Wake Forest
 	Jordan Mathews           SG  Gonzaga
-	Bogdan Bogdanovic        SG  —
+	Bogdan Bogdanovic        SG   
 	Kevin Huerter            SG  Maryland
 	Trae Young               PG  Oklahoma
 	Marcus Derrickson        SF  Georgetown
@@ -420,9 +420,9 @@ Atlanta Hawks
 	Isaac Humphries          PF  Kentucky
 	De'Andre Hunter          SF  Virginia
 	Cam Reddish              SG  Duke
-	Skylar Mays              SG  —
-	Onyeka Okongwu           PF  —
-	Nathan Knight            PF  —
+	Skylar Mays              SG   
+	Onyeka Okongwu           PF   
+	Nathan Knight            PF   
 
 
 Charlotte Hornets
@@ -430,11 +430,11 @@ Charlotte Hornets
 	Terry Rozier             SG  Louisville
 	Julyan Stone             PG  Texas-El Paso
 	Cody Zeller              C   Indiana
-	Bismack Biyombo          C   —
+	Bismack Biyombo          C    
 	Gordon Hayward           SF  Butler
 	Shelvin Mack             PG  Butler
 	Marcus Paige             PG  North Carolina
-	Tony Parker              PG  No College
+	Tony Parker              PG   
 	Johnny O'Bryant          C   Louisiana State
 	Terry Henderson          SG  North Carolina State
 	Mangok Mathiang          C   Louisville
@@ -444,7 +444,7 @@ Charlotte Hornets
 	Kobi Simmons             G   Arizona
 	Miles Bridges            SF  Michigan State
 	Devonte' Graham          PG  Kansas
-	Arnoldas Kulboka         SF   nbsp;
+	Arnoldas Kulboka         SF   
 	Isaiah Wilkins           F   Virginia
 	Thomas Welsh             C   UCLA
 	Ray Spalding             F   Louisville
@@ -454,15 +454,15 @@ Charlotte Hornets
 	Jalen McDaniels          PF  San Diego State
 	PJ Washington            PF  Kentucky
 	Caleb Martin             SF  North Carolina State; Nevada
-	LaMelo Ball              PG  —
-	Vernon Carey Jr.         C   —
-	Grant Riller             PG  —
-	Nick Richards            C   —
-	Keandre Cook             SG  —
-	Nate Darling             SG  —
-	Javin DeLaurier          PF  —
-	Xavier Sneed             SF  —
-	Kahlil Whitney           SF  —
+	LaMelo Ball              PG   
+	Vernon Carey Jr.         C    
+	Grant Riller             PG   
+	Nick Richards            C    
+	Keandre Cook             SG   
+	Nate Darling             SG   
+	Javin DeLaurier          PF   
+	Xavier Sneed             SF   
+	Kahlil Whitney           SF   
 
 
 Miami Heat
@@ -473,7 +473,7 @@ Miami Heat
 	Jimmy Butler             SF  Marquette
 	Dwyane Wade              SG  Marquette
 	Luke Babbitt             SF  Nevada
-	Goran Dragic             PG  —
+	Goran Dragic             PG   
 	Udonis Haslem            PF  Florida
 	Briante Weber            PG  Virginia Commonwealth
 	Jarnell Stokes           PF  Tennessee
@@ -496,8 +496,8 @@ Miami Heat
 	Chris Silva              PF  South Carolina
 	Gabe Vincent             PG  California-Santa Barbara
 	BJ Johnson               SG  Syracuse; La Salle
-	Precious Achiuwa         PF  —
-	Paul Eboua               F   --
+	Precious Achiuwa         PF   
+	Paul Eboua               F    
 	Breein Tyree             G   OleMiss
 
 
@@ -506,14 +506,14 @@ Orlando Magic
 	Terrence Ross            SG  Washington
 	Michael Carter-Williams  PG  Syracuse
 	Rashad Vaughn            SG  Nevada-Las Vegas
-	Evan Fournier            SG  —
+	Evan Fournier            SG   
 	Aaron Gordon             PF  Arizona
-	Damjan Rudez             PF  No College
+	Damjan Rudez             PF   
 	Nikola Vucevic           C   USC
 	Adreian Payne            PF  Michigan State
 	Al-Farouq Aminu          PF  Wake Forest
 	Marreese Speights        PF  Florida
-	Timofey Mozgov           C   No College
+	Timofey Mozgov           C    
 	Arron Afflalo            SG  UCLA
 	James Ennis              SF  Oxnard; Ventura Coll. CA (J.C.
 	Josh Magette             PG  Alabama-Huntsville
@@ -521,7 +521,7 @@ Orlando Magic
 	Dwayne Bacon             SF  Florida State
 	Khem Birch               C   Pittsburgh; Nevada-Las Vegas
 	Jonathan Isaac           PF  Florida State
-	Isaiah Briscoe           PG  
+	Isaiah Briscoe           PG   
 	Mohamed Bamba            C   Texas
 	Melvin Frazier Jr.       SG  Tulane
 	Justin Jackson           SF  Maryland
@@ -530,10 +530,10 @@ Orlando Magic
 	Robert Franks            SF  Washington State
 	Vic Law                  F   Northwestern
 	Chuma Okeke              PF  Auburn
-	Cole Anthony             PG  —
-	Devin Cannady            PG  —
-	Karim Mane               SG  —
-	Jon Teske                C   —
+	Cole Anthony             PG   
+	Devin Cannady            PG   
+	Karim Mane               SG   
+	Jon Teske                C    
 
 
 Washington Wizards
@@ -544,42 +544,42 @@ Washington Wizards
 	Jerian Grant             G   Notre Dame
 	Robin Lopez              C   Stanford
 	Ish Smith                PG  Wake Forest
-	C.J. Miles               SF  —
+	C.J. Miles               SF   
 	Ramon Sessions           PG  Nevada
 	Okaro White              PF  Florida State
 	Bradley Beal             SG  Florida
-	Ian Mahinmi              C   —
+	Ian Mahinmi              C    
 	Daniel Ochefu            C   Villanova
 	Russell Westbrook        PG  UCLA
 	Shabazz Napier           G   Connecticut
-	Raul Neto                PG  —
+	Raul Neto                PG   
 	Wesley Johnson           SF  Iowa State; Syracuse
 	Ty Lawson                PG  North Carolina
 	Sam Dekker               SF  Wisconsin
 	Gary Payton              G   Oregon State
-	Davis Bertans            SF  —
+	Davis Bertans            SF   
 	Carrick Felix            SF  Coll. of Southern Idaho (J.C.)
 	Devin Robinson           SF  Florida
 	Donald Sloan             PG  Texas A M
 	Michael Young            SF  Pittsburgh
 	Thomas Bryant            C   Indiana
 	Troy Brown Jr.           SF  Oregon
-	Tiwian Kendley           G    nbsp;
-	Issuf Sanon              SG   nbsp;
+	Tiwian Kendley           G    
+	Issuf Sanon              SG   
 	Jerome Robinson          SG  Boston College
-	Isaac Bonga              SF  —
+	Isaac Bonga              SF   
 	Johnathan Williams       F   Missouri; Gonzaga
 	Moritz Wagner            C   Michigan
 	Rui Hachimura            PF  Gonzaga
 	Jemerrio Jones           SG  New Mexico State
 	Garrison Mathews         SG  Lipscomb University
-	Anzejs Pasecniks         C   —
-	Deni Avdija              SF  —
-	Cassius Winston          PG  —
-	Yoeli Childs             PF  —
-	Anthony Gill             PF  —
-	Caleb Homesley           SG  —
-	Marlon Taylor            SG  —
+	Anzejs Pasecniks         C    
+	Deni Avdija              SF   
+	Cassius Winston          PG   
+	Yoeli Childs             PF   
+	Anthony Gill             PF   
+	Caleb Homesley           SG   
+	Marlon Taylor            SG   
 
 
 Denver Nuggets
@@ -591,23 +591,23 @@ Denver Nuggets
 	Darrell Arthur           PF  Kansas
 	Will Barton              SF  Memphis
 	Gary Harris              SG  Michigan State
-	Nikola Jokic             C   —
+	Nikola Jokic             C    
 	Jamal Murray             PG  Kentucky
 	Troy Daniels             G   Virginia Commonwealth
 	JaMychal Green           PF  Alabama
 	Josh Childress           SF  Stanford
 	Monte Morris             PG  Iowa State
 	PJ Dozier                SG  South Carolina
-	Isaiah Hartenstein       C   —
+	Isaiah Hartenstein       C    
 	DeVaughn Akoon-Purcell   SG  IllinoisState
 	Michael Porter Jr.       SF  Missouri
 	Bol Bol                  C   Oregon
-	Vlatko Cancar            SF  —
-	RJ Hampton               PG  --
-	Zeke Nnaji               PF  —
-	Facundo Campazzo         PG  —
-	Markus Howard            PG  —
-	Greg Whittington         SF  —
+	Vlatko Cancar            SF   
+	RJ Hampton               PG   
+	Zeke Nnaji               PF   
+	Facundo Campazzo         PG   
+	Markus Howard            PG   
+	Greg Whittington         SF   
 
 
 Minnesota Timberwolves
@@ -617,8 +617,8 @@ Minnesota Timberwolves
 	Isaiah Canaan            PG  Murray State
 	Aaron Brooks             PG  Oregon
 	Malik Beasley            SG  Florida State
-	Juancho Hernangomez      PF  —
-	Ricky Rubio              PG  —
+	Juancho Hernangomez      PF   
+	Ricky Rubio              PG   
 	Karl-Anthony Towns       C   Kentucky
 	Allen Crabbe             SF  California
 	Ed Davis                 F   North Carolina
@@ -629,7 +629,7 @@ Minnesota Timberwolves
 	C.J. Williams            SG  North Carolina State
 	Marcus Georges-Hunt      SG  Georgia Tech
 	Melo Trimble             PG  Maryland
-	Mitchell Creek           SF   nbsp;
+	Mitchell Creek           SF   
 	Jordan McLaughlin        PG  USC
 	Jarred Vanderbilt        PF  Kentucky
 	James Nunnally           SF  UCSantaBarbara
@@ -640,10 +640,10 @@ Minnesota Timberwolves
 	Jarrett Culver           SG  Texas Tech
 	Jaylen Nowell            SG  Washington
 	Naz Reid                 C   Louisiana State
-	Leandro Bolmaro          G   --
-	Anthony Edwards          SG  —
-	Jaden McDaniels          PF  —
-	Ashton Hagans            PG  —
+	Leandro Bolmaro          G    
+	Anthony Edwards          SG   
+	Jaden McDaniels          PF   
+	Ashton Hagans            PG   
 	Ade Murkey               G   Denver
 
 
@@ -652,7 +652,7 @@ Oklahoma City Thunder
 	Al Horford               C   Florida
 	Eric Moreland            C   Oregon State
 	Mike Muscala             C   Bucknell
-	Alex Abrines             SG  No College
+	Alex Abrines             SG   
 	Semaj Christon           PG  Xavier (Ohio)
 	Nick Collison            PF  Kansas
 	Josh Huestis             SG  Stanford
@@ -669,7 +669,7 @@ Oklahoma City Thunder
 	Justin Jackson           SF  North Carolina
 	Darius Miller            SF  Kentucky
 	Bryce Alford             SG  UCLA
-	Rashawn Thomas           PF  
+	Rashawn Thomas           PF   
 	Deonte Burton            SG  Marquette; Iowa State
 	Tyler Davis              C   TexasA M
 	Hamidou Diallo           SG  Kentucky
@@ -678,25 +678,25 @@ Oklahoma City Thunder
 	Shai Gilgeous-Alexander  PG  Kentucky
 	Kenrich Williams         SG  New Mexico JC; TCU
 	Admiral Schofield        SG  Tennessee
-	Darius Bazley            PF  —
+	Darius Bazley            PF   
 	Luguentz Dort            SF  Arizona State
 	Ty Jerome                SG  Virginia
 	Isaiah Roby              PF  Nebraska
 	Zylan Cheatham           C   San Diego State; Arizona State
 	Moses Brown              C   UCLA
-	Theo Maledon             PG  —
-	Vit Krejci               PG  --
-	Aleksej Pokusevski       PF  —
-	Josh Hall                SF  —
+	Theo Maledon             PG   
+	Vit Krejci               PG   
+	Aleksej Pokusevski       PF   
+	Josh Hall                SF   
 	Omer Yurtseven           C   Georgetown
-	Vasilije Micic           PG  --
+	Vasilije Micic           PG   
 
 
 Portland Trail Blazers
 	Name                     Pos College
 	Carmelo Anthony          PF  Syracuse
 	Robert Covington         PF  Tennessee State
-	Jusuf Nurkic             C   —
+	Jusuf Nurkic             C    
 	Brandon Rush             SG  Kansas
 	Enes Kanter              C   Kentucky
 	Anthony Morrow           SG  Georgia Tech
@@ -705,31 +705,31 @@ Portland Trail Blazers
 	Rodney Hood              SG  Mississippi State; Duke
 	Archie Goodwin           SG  Kentucky
 	Derrick Jones            SF  Nevada-Las Vegas
-	Georgios Papagiannis     C   
-	Pau Gasol                C   —
+	Georgios Papagiannis     C    
+	Pau Gasol                C    
 	Troy Caupain             PG  Cincinnati
 	Zach Collins             PF  Gonzaga
 	Caleb Swanigan           PF  Purdue
 	Harry Giles              PF  Duke
 	Cameron Oliver           PF  Nevada
 	London Perrantes         PG  Virginia
-	Anfernee Simons          SG  —
+	Anfernee Simons          SG   
 	Gary Trent Jr.           SG  Duke
 	Jaylen Hoard             SF  Wake Forest
 	Nassir Little            SF  North Carolina
-	CJ Elleby                SG  —
+	CJ Elleby                SG   
 	Keljin Blevins           SF  Montana State
 
 
 Utah Jazz
 	Name                     Pos College
-	Bojan Bogdanovic         SF  —
+	Bojan Bogdanovic         SF   
 	Georges Niang            SF  Iowa State
-	Emmanuel Mudiay          G   —
+	Emmanuel Mudiay          G    
 	Nate Wolters             PG  South Dakota State
 	Derrick Favors           C   Georgia Tech
-	Rudy Gobert              C   —
-	Joe Ingles               SF  —
+	Rudy Gobert              C    
+	Joe Ingles               SF   
 	Jordan Clarkson          PG  Tulsa; Missouri
 	Shaquille Harrison       PG  Tulsa
 	Mike Conley              PG  Ohio State
@@ -739,8 +739,8 @@ Utah Jazz
 	Donovan Mitchell         SG  Louisville
 	Royce O'Neale            PF  Denver; Baylor
 	Ekpe Udoh                C   Baylor
-	Isaac Haas               C    nbsp;
-	Jairus Lyles             G    nbsp;
+	Isaac Haas               C    
+	Jairus Lyles             G    
 	Trevon Bluiett           SG  Xavier (Ohio)
 	Jarrell Brantley         PF  Charleston (SC)
 	Stanton Kidd             PF  South Plains Coll. TX (J.C.);
@@ -748,31 +748,31 @@ Utah Jazz
 	Miye Oni                 SG  Yale
 	Justin Wright-Foreman    PG  Hofstra
 	Nigel Williams-Goss      PG  Washington; Gonzaga
-	Udoka Azubuike           C   —
+	Udoka Azubuike           C    
 	Elijah Hughes            SF  Syracuse
-	Trent Forrest            SG  —
-	Jake Toolson             SG  —
+	Trent Forrest            SG   
+	Jake Toolson             SG   
 	Trevon Scott             SF  Cincinnati
 
 
 Golden State Warriors
 	Name                     Pos College
-	Jonas Jerebko            PF  No College
+	Jonas Jerebko            PF   
 	Damion Lee               SG  Drexel; Louisville
 	Chasson Randle           SG  Stanford
 	Michael Gbinije          SG  Duke; Syracuse
 	Kent Bazemore            SF  Old Dominion
 	Kelly Oubre Jr.          SF  Kansas
-	Axel Toupane             SF  —
+	Axel Toupane             SF   
 	Andrew Wiggins           SG  Kansas
 	Stephen Curry            PG  Davidson
 	Draymond Green           PF  Michigan State
-	Shaun Livingston         PG  No College
+	Shaun Livingston         PG   
 	Kevon Looney             PF  UCLA
 	Klay Thompson            SG  Washington State
 	David West               PF  Xavier (Ohio)
 	Nick Young               SG  USC
-	Dragan Bender            C   —
+	Dragan Bender            C    
 	Marquese Chriss          SF  Washington
 	Matt Barnes              SF  UCLA
 	Andrew Bogut             C   Utah
@@ -781,14 +781,14 @@ Golden State Warriors
 	Brad Wanamaker           PG  Pittsburgh
 	Eric Paschall            PF  Fordham; Villanova
 	Jordan Poole             SG  Michigan
-	Alen Smailagic           PF  —
+	Alen Smailagic           PF   
 	Mychal Mulder            SG  Vincennes IN (J.C.); Kentucky
 	Juan Toscano-Anderson    SF  Marquette
 	Justinian Jessup         G   BoiseState
-	Nico Mannion             PG  —
-	James Wiseman            C   —
-	Dwayne Sutton            SF  —
-	Kaleb Wesson             PF  —
+	Nico Mannion             PG   
+	James Wiseman            C    
+	Dwayne Sutton            SF   
+	Kaleb Wesson             PF   
 
 
 Los Angeles Clippers
@@ -798,17 +798,17 @@ Los Angeles Clippers
 	Reggie Jackson           PG  Boston College
 	Marcus Morris            SF  Kansas
 	Paul George              SG  Fresno State
-	Nicolas Batum            PF  —
-	Serge Ibaka              C   —
-	Marcin Gortat            C   No College
+	Nicolas Batum            PF   
+	Serge Ibaka              C    
+	Marcin Gortat            C    
 	Alan Anderson            SG  Michigan State
-	Louis Williams           SG  —
-	Ivica Zubac              C   —
+	Louis Williams           SG   
+	Ivica Zubac              C    
 	Patrick Beverley         PG  Arkansas
 	Kawhi Leonard            SF  San Diego State
 	Luke Kennard             SG  Duke
-	LaDontae Henton          SF  
-	Milos Teodosic           PG  No College
+	LaDontae Henton          SF   
+	Milos Teodosic           PG   
 	Jamil Wilson             SF  Oregon; Marquette
 	Angel Delgado            C   SetonHall
 	Donte Grantham           SF  Clemson
@@ -818,17 +818,17 @@ Los Angeles Clippers
 	Ky Bowman                PG  Boston College
 	Amir Coffey              SG  Minnesota
 	Jay Scrubb               SG  John A. Logan College
-	Daniel Oturu             C   —
-	Malik Fitts              F   —
-	Jordan Ford              G   —
+	Daniel Oturu             C    
+	Malik Fitts              F    
+	Jordan Ford              G    
 
 
 Los Angeles Lakers
 	Name                     Pos College
 	Demetrius Jackson        PG  Notre Dame
-	LeBron James             SF  —
+	LeBron James             SF   
 	Kentavious Caldwell-Pope SG  Georgia
-	Dennis Schroder          PG  —
+	Dennis Schroder          PG   
 	Dion Waiters             G   Syracuse
 	Derrick Williams         PF  Arizona
 	Stephen Zimmerman Jr.    C   UNLV
@@ -839,10 +839,10 @@ Los Angeles Lakers
 	Wesley Matthews          SG  Marquette
 	Tyler Ennis              PG  Syracuse
 	Montrezl Harrell         C   Louisville
-	Marc Gasol               C   —
+	Marc Gasol               C    
 	Anthony Davis            PF  Kentucky
 	Lance Stephenson         SG  Cincinnati
-	J.R. Smith               SG  —
+	J.R. Smith               SG   
 	Quinn Cook               PG  Duke
 	Jordan Bell              F   Oregon
 	V.J. Beachem             SF  Notre Dame
@@ -850,7 +850,7 @@ Los Angeles Lakers
 	Kyle Kuzma               SF  Utah
 	Alfonzo McKinnie         SF  Wis.-Green Bay
 	Joel Berry II            PG  NorthCarolina
-	Jeffrey Carroll          G    nbsp;
+	Jeffrey Carroll          G    
 	Andre Ingram             SG  AmericanUniversity
 	Moritz Wagner            F   Michigan
 	Kostas Antetokounmpo     PF  Dayton
@@ -862,7 +862,7 @@ Los Angeles Lakers
 Phoenix Suns
 	Name                     Pos College
 	Jae Crowder              PF  Southwest Georgia Technical Co
-	Dario Saric              PF  —
+	Dario Saric              PF   
 	Frank Kaminsky III       PF  Wisconsin
 	Cameron Payne            PG  Murray State
 	Ronnie Price             PG  Utah Valley
@@ -880,13 +880,13 @@ Phoenix Suns
 	Deandre Ayton            C   Arizona
 	Mikal Bridges            SF  Villanova
 	George King              SF  Colorado
-	Elie Okobo               G   —
+	Elie Okobo               G    
 	Jevon Carter             PG  West Virginia
 	Jonah Bolden             C   UCLA
 	Cameron Johnson          PF  Pittsburgh; North Carolina
 	Tariq Owens              F   TexasTech
-	Jalen Smith              PF  —
-	Ty-Shon Alexander        SG  —
+	Jalen Smith              PF   
+	Ty-Shon Alexander        SG   
 
 
 Sacramento Kings
@@ -896,7 +896,7 @@ Sacramento Kings
 	Glenn Robinson III       SF  Michigan
 	Jabari Parker            PF  Duke
 	Hassan Whiteside         C   Marshall
-	Nemanja Bjelica          PF  —
+	Nemanja Bjelica          PF   
 	Kosta Koufos             C   Ohio State
 	Harrison Barnes          SF  North Carolina
 	Corey Brewer             SG  Florida
@@ -914,23 +914,23 @@ Sacramento Kings
 	Vincent Edwards          SF  Purdue
 	Chimezie Metu            PF  USC
 	DaQuan Jeffries          SG  Western Texas Coll. (J.C.); Tu
-	Cody Demps               F   -
+	Cody Demps               F    
 	Kyle Guy                 SG  Virginia
 	Justin James             SG  Wyoming
-	Vanja Marinkovic         SG  -
+	Vanja Marinkovic         SG   
 	Eric Mika                C   Brigham Young
 	Isaiah Pineiro           SF  Sierra Coll. CA (J.C.); Portla
-	Tyrese Haliburton        PG  —
-	KJ Martin                F   --
+	Tyrese Haliburton        PG   
+	KJ Martin                F    
 	Jahmi #x27;us Ramsey     SG  TexasTech
-	Robert Woodard II        SF  —
+	Robert Woodard II        SF   
 
 
 Dallas Mavericks
 	Name                     Pos College
 	Courtney Lee             SG  Western Kentucky
-	Kristaps Porzingis       PF  —
-	Boban Marjanovic         C   —
+	Kristaps Porzingis       PF   
+	Boban Marjanovic         C    
 	Tim Hardaway Jr.         SF  Michigan
 	James Johnson            PF  Wake Forest
 	Josh McRoberts           PF  Duke
@@ -942,52 +942,52 @@ Dallas Mavericks
 	Kyle Collinsworth        SG  Brigham Young
 	Dorian Finney-Smith      SF  Virginia Tech; Florida
 	Devin Harris             PG  Wisconsin
-	Salah Mejri              C   No College
-	Dirk Nowitzki            PF  No College
+	Salah Mejri              C    
+	Dirk Nowitzki            PF   
 	Dwight Powell            C   Stanford
 	Wesley Iwundu            SF  Kansas State
 	Brandon Ashley           PF  Arizona
 	Gian Clavell             SG  NW Kansas Technical College; C
-	Maximilian Kleber        PF  —
+	Maximilian Kleber        PF   
 	Maalik Wayns             PG  Villanova
 	Jalen Brunson            PG  Villanova
-	Luka Doncic              PG  —
+	Luka Doncic              PG   
 	Scotty Hopson            SG  Tennessee
-	Codi Miller-McIntyre     G    nbsp;
-	Ding Yanyuhang           F    nbsp;
+	Codi Miller-McIntyre     G    
+	Ding Yanyuhang           F    
 	Josh Reaves              SG  Penn State
-	Tyler Bey                SG  —
-	Josh Green               SG  —
-	Tyrell Terry             PG  —
-	Freddie Gillespie        PF  —
-	Nate Hinton              SG  —
-	Devonte Patterson        SF  —
+	Tyler Bey                SG   
+	Josh Green               SG   
+	Tyrell Terry             PG   
+	Freddie Gillespie        PF   
+	Nate Hinton              SG   
+	Devonte Patterson        SF   
 
 
 Houston Rockets
 	Name                     Pos College
-	Gerald Green             SG  —
+	Gerald Green             SG   
 	Anthony Bennett          PF  Nevada-Las Vegas
 	Shawn Long               PF  Mississippi; Louisiana-Lafayet
-	Bruno Caboclo            SF  —
+	Bruno Caboclo            SF   
 	DeMarre Carroll          SF  Vanderbilt; Missouri
 	Markel Brown             SG  Oklahoma State
-	Thabo Sefolosha          SF  —
+	Thabo Sefolosha          SF   
 	Christian Wood           C   Nevada-Las Vegas
 	John Wall                PG  Kentucky
 	Kenneth Faried           PF  Morehead State
 	Victor Oladipo           SG  Indiana
-	Dante Exum               G   —
+	Dante Exum               G    
 	Chris Johnson            SG  Dayton
 	Luc Richard Mbah a Moute PF  UCLA
 	Tarik Black              PF  Memphis; Kansas
-	Tyson Chandler           C   —
+	Tyson Chandler           C    
 	P.J. Tucker              PF  Texas
 	DeMarcus Cousins         C   Kentucky
 	Ben McLemore             G   Kansas
 	Ryan Anderson            C   California
 	Eric Gordon              SF  Indiana
-	Nene Hilario             C   No College
+	Nene Hilario             C    
 	Chinanu Onuaku           PF  Louisville
 	Deyonta Davis            PG  Michigan State
 	Brandan Wright           C   North Carolina
@@ -996,36 +996,36 @@ Houston Rockets
 	Bobby Brown              PG  Cal State-Fullerton
 	David Nwaba              SG  Santa Monica Coll. CA (J.C.);
 	Sterling Brown           SG  Southern Methodist
-	Zhou Qi                  PF  No College
+	Zhou Qi                  PF   
 	Jaron Blossomgame        SF  Clemson
-	George de Paula          PG  
-	Rodions Kurucs           F   —
-	Trevon Duval             PG   nbsp;
+	George de Paula          PG   
+	Rodions Kurucs           F    
+	Trevon Duval             PG   
 	Rob Gray                 G   Houston
 	Aaron Jackson            SF  Duquesne
-	William Howard           SG  —
+	William Howard           SG   
 	Michael Frazier          SG  Florida
-	Kenny Wooten             C   —
+	Kenny Wooten             C    
 	Chris Clemons            PG  Campbell
-	Mason Jones              SG  —
-	Kenyon Martin Jr.        SF  —
+	Mason Jones              SG   
+	Kenyon Martin Jr.        SF   
 	Trevelin Queen           G   NewMexicoState
 	Trey Mourning            F   Georgetown
 	Jae #x27;Sean Tate       SF  OhioState
-	Brodric Thomas           SG  —
+	Brodric Thomas           SG   
 
 
 Memphis Grizzlies
 	Name                     Pos College
-	Jonas Valanciunas        C   —
+	Jonas Valanciunas        C    
 	Vince Hunter             SF  Texas-El Paso
 	Miles Plumlee            C   Duke
 	Justise Winslow          PF  Duke
-	Mario Hezonja            SF  —
+	Mario Hezonja            SF   
 	Gorgui Dieng             C   Louisville
 	Tyus Jones               PG  Duke
 	Brice Johnson            PF  North Carolina
-	Omri Casspi              SF  No College
+	Omri Casspi              SF   
 	Anthony Tolliver         F   Creighton
 	D.J. Stephens            SG  Memphis
 	Tim Frazier              PG  Penn State
@@ -1034,7 +1034,7 @@ Memphis Grizzlies
 	Tyler Dorsey             SG  Oregon
 	Dillon Brooks            SG  Oregon
 	Mario Chalmers           PG  Kansas
-	Rade Zagorac             SF  No College
+	Rade Zagorac             SF   
 	Durand Scott             SG  Miami (FL)
 	Myke Henry               SF  DePaul
 	Grayson Allen            SG  Duke
@@ -1048,22 +1048,22 @@ Memphis Grizzlies
 	Brandon Clarke           PF  San Jose State; Gonzaga
 	John Konchar             SG  Purdue Univ-Fort Wayne
 	Ja Morant                PG  Murray State
-	Marko Guduric            SG  —
-	Jontay Porter            PF  —
+	Marko Guduric            SG   
+	Jontay Porter            PF   
 	Xavier Tillman Sr.       PF  MichiganState
-	Desmond Bane             SG  —
-	Sean McDermott           SG  —
-	Killian Tillie           C   —
+	Desmond Bane             SG   
+	Sean McDermott           SG   
+	Killian Tillie           C    
 	Jahlil Tripp             G   Pacific
-	Bennie Boatwright        PF  —
-	Shaq Buchanan            SG  —
+	Bennie Boatwright        PF   
+	Shaq Buchanan            SG   
 	Ahmad Caver              PG  Old Dominion
 	Christian Vital          G   Connecticut
 
 
 New Orleans Pelicans
 	Name                     Pos College
-	Willy Hernangomez        C   —
+	Willy Hernangomez        C    
 	DeAndre Liggins          SG  Kentucky
 	Cliff Alexander          PF  Kansas
 	Jason Smith              PF  Colorado State
@@ -1072,8 +1072,8 @@ New Orleans Pelicans
 	JJ Redick                SG  Duke
 	Brandon Ingram           SF  Duke
 	Eric Bledsoe             SG  Kentucky
-	Josh Smith               PF  
-	Alexis Ajinca            C   No College
+	Josh Smith               PF   
+	Alexis Ajinca            C    
 	Jarrod Uthoff            SF  Iowa
 	Ike Anigbogu             C   UCLA
 	Sindarius Thornwell      SG  South Carolina
@@ -1090,14 +1090,14 @@ New Orleans Pelicans
 	Darius Morris            PG  Michigan
 	Wenyen Gabriel           PF  Kentucky
 	Nickeil Alexander-Walker SG  Virginia Tech
-	Kavell Bigby-Williams    C   -
+	Kavell Bigby-Williams    C    
 	Jaxson Hayes             C   Texas
-	Nicolo Melli             PF  —
+	Nicolo Melli             PF   
 	Zion Williamson          PF  Duke
-	Nicolo Melli             PF  --
-	Kira Lewis Jr.           PG  —
-	Will Magnay              PF  —
-	Naji Marshall            SF  —
+	Nicolo Melli             PF   
+	Kira Lewis Jr.           PG   
+	Will Magnay              PF   
+	Naji Marshall            SF   
 
 
 San Antonio Spurs
@@ -1108,15 +1108,15 @@ San Antonio Spurs
 	Jakob Poeltl             C   Utah
 	Darrun Hilliard          SG  Villanova
 	Matt Costello            SF  Michigan State
-	Marco Belinelli          G   —
-	Joffrey Lauvergne        C   No College
+	Marco Belinelli          G    
+	Joffrey Lauvergne        C    
 	Trey Lyles               PF  Kentucky
 	Rudy Gay                 SF  Connecticut
-	Donatas Motiejunas       PF  
+	Donatas Motiejunas       PF   
 	Dante Cunningham         SF  Villanova
 	Quincy Pondexter         SF  Washington
 	LaMarcus Aldridge        C   Texas
-	Manu Ginobili            SG  No College
+	Manu Ginobili            SG   
 	David Lee                PF  Florida
 	Patty Mills              PG  St. Mary's (CA)
 	Dejounte Murray          PG  Washington
@@ -1127,10 +1127,10 @@ San Antonio Spurs
 	Drew Eubanks             PF  Oregon State
 	Cameron Reynolds         F   Tulane
 	Keldon Johnson           PF  Kentucky
-	Jeff Ledbetter           G   -
-	Luka Samanic             PF  —
+	Jeff Ledbetter           G    
+	Luka Samanic             PF   
 	Quinndary Weatherspoon   SG  Mississippi State
-	Tre Jones                PG  —
-	Devin Vassell            SG  —
+	Tre Jones                PG   
+	Devin Vassell            SG   
 
 
