@@ -10,6 +10,7 @@ import (
 	"time"
 )
 
+// Teams - Top-level XML structure for teams endpoint
 type Teams struct {
 	XMLName xml.Name `xml:"FantasyBasketballNerd"`
 	Service string   `xml:"service,attr"`
@@ -17,6 +18,7 @@ type Teams struct {
 	Teams   []Team   `xml:"Team"`
 }
 
+// Team - Team details
 type Team struct {
 	Code       string `xml:"code"`
 	Name       string `xml:"name"`
@@ -24,6 +26,7 @@ type Team struct {
 	Division   string `xml:"division"`
 }
 
+// Players - Top-Level XML Structure for players endpoint
 type Players struct {
 	XMLName xml.Name `xml:"FantasyBasketballNerd"`
 	Service string   `xml:"service,attr"`
@@ -31,6 +34,7 @@ type Players struct {
 	Players []Player `xml:"Player"`
 }
 
+// Player - Player details
 type Player struct {
 	PlayerID  int    `xml:"playerId"`
 	Name      string `xml:"name"`
@@ -42,6 +46,7 @@ type Player struct {
 	School    string `xml:"school"`
 }
 
+// Roster - Team and Players associated to the given team.
 type Roster struct {
 	Team    Team
 	Players []Player
